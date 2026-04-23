@@ -18,7 +18,7 @@
 - PgAdmin 4
 
 ## 📚 Что протестировано
-API: https://jsonplaceholder.typicode.com
+API: выберу попозже
 
 Проверки:
 - GET /posts
